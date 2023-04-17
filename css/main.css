@@ -1,0 +1,15 @@
+
+html {
+    scroll-behavior: smooth;
+}
+.subtitle{
+    font-weight: bold;
+
+}
+.programming-languages{
+    font-size: 7em;
+}
+h5, h3{
+    text-decoration: underline;
+}
+
